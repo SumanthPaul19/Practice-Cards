@@ -1,0 +1,17 @@
+.header{
+    background-color: #e9ecef;
+}
+.fakeimg{
+    height: 200px;
+    background: #aaa;
+
+}
+
+.a1{
+    text-decoration: none;
+}
+
+.btn-disabled{
+    color: darkgray;
+    text-decoration: none;
+}
